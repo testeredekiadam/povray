@@ -1,0 +1,1 @@
+#define my_kugel = sphere {<0,0,0>,1}
